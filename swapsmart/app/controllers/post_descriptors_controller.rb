@@ -1,0 +1,2 @@
+class PostDescriptorsController < ApplicationController
+end
